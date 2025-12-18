@@ -1,0 +1,5 @@
+{
+  "name": "Intimation & File Management System",
+  "description": "A professional CRUD application for managing accident file intimations, address tracking, scanning status, insurance resubmissions, and letter distribution workflows.",
+  "requestFramePermissions": []
+}
